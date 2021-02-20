@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-  <a href="yunlingfly.github.io">
+  <a href="https://yunlingfly.github.io">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yunlingfly&repo=yunlingfly.github.io&theme=material-palenight" />
   </a>
 </p>
