@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://github.com/Yunlingfly">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yunlingfly&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yunlingfly&langs_count=8&theme=algolia"/>
   </a>
   <a href="https://yunlingfly.github.io">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yunlingfly&repo=yunlingfly.github.io&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Yunlingfly&layout=compact&repo=yunlingfly.github.io&theme=material-palenight" />
   </a>
 </p>
